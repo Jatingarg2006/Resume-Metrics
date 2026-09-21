@@ -76,6 +76,6 @@ It is designed specifically for placement season, internships, and entry-level r
 Jatin Kumar, BCA
 Maharaja Surajmal Institute, Janakpuri
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/jatin-garg-6a0189249/
 
 ---
